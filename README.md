@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ANMOLYADAV1402
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 ANMOLYADAV1402/ANMOLYADAV1402 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
